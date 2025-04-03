@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Fake Orders with Additional Details
     const fakeOrders = {
-        "790146": { 
+        "PKG928059": { 
             status: "PENDING", 
             createdAt: Date.now(), 
             receiver: "Michel Andreina terrero", 
