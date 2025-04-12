@@ -25,7 +25,9 @@ document.addEventListener('DOMContentLoaded', function () {
             sender: "David Michael",
             SenderCountry: "United Kingdom",
         
-         "PKG967890": { 
+        },
+        
+        "PKG967890": { 
             status: "PENDING", 
             createdAt: Date.now(), 
             receiver: "Mary Grace T Angel", 
