@@ -24,6 +24,17 @@ document.addEventListener('DOMContentLoaded', function () {
             packageFee: "$100", 
             sender: "David Michael",
             SenderCountry: "United Kingdom",
+        
+         "PKG967890": { 
+            status: "PENDING", 
+            createdAt: Date.now(), 
+            receiver: "Mary Grace T Angel", 
+            FinalPackageLocation:"Canada",
+            ReciverEmail:"____",
+            ReceiverPhone: "+1 873 456 2988",
+            packageFee: "$2,000", 
+            sender: "James Carlos",
+            SenderCountry: "Dubai",
         }
     };
 
