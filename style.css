@@ -565,3 +565,8 @@ button:hover {
 .draggable {
     cursor: grab;
 }
+p1{
+    font-style: italic;
+    font-weight: bold;
+  color: #031d38;
+}
